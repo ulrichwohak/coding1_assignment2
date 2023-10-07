@@ -8,10 +8,10 @@ You can answer the questions below using Python in any IDE, including Jupyter No
 
 In this task you will have to use loops, `if` conditions and the `print` function to build an obstacle similar to the ones you would find in Super Mario. To do this, build a pyramid using hashes (`#`) as building blocks for your pyramid with 5 levels. The output should look like this:
 
-`    # #    `  
-`   ## ##   `  
-`  ### ###  `  
-` #### #### `  
+`     # #    `  
+`    ## ##   `  
+`   ### ###  `  
+`  #### #### `  
 `##### #####`  
 
 Disclaimer: This problem is inspired by Harvard's cs50 course.  
